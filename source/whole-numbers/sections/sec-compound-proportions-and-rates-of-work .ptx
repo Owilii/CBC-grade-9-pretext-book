@@ -1,4 +1,10 @@
 <section xml:id="sec-compound-proportions-and-rates-of-work" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Compound proportions and Rates of work</title>
-    
+    <p>
+        <m>\mathbf{Proportion}</m> is an equation that states that two ratios are equal.
+         For example, if <m>a</m> and <m>b</m> are in the same ratio as <m>c</m> and <m>d</m>, we can write this as:
+    </p>
+    <p>
+        It can be represented as <m>a:b = c:d</m>. This means that the fraction <m>\frac{a}{b}</m> is equal to the fraction <m>\frac{c}{d}</m>.
+    </p>
 </section>
