@@ -1,0 +1,4 @@
+<section xml:id="sec-approximations-and-errors" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Approximations and Errors</title>
+    <xi:include href="subsections/approximations-and-errors/test1.ptx" />
+</section>

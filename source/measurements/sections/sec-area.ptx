@@ -1,0 +1,4 @@
+<section xml:id="sec-area" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Area</title>
+    <xi:include href="subsections/area/test2.ptx" />
+</section>
