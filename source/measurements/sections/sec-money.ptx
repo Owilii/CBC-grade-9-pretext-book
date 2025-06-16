@@ -1,0 +1,4 @@
+<section xml:id="sec-money" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Money</title>
+    <xi:include href="subsections/money/test4.ptx" />
+</section>

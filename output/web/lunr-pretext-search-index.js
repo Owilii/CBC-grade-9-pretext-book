@@ -28,13 +28,58 @@ var ptx_lunr_docs = [
   "body": " Algebra   lll   "
 },
 {
-  "id": "ch-measurements",
+  "id": "sec-area",
   "level": "1",
-  "url": "ch-measurements.html",
-  "type": "Chapter",
-  "number": "3",
-  "title": "Measurements",
-  "body": " Measurements   lll   "
+  "url": "sec-area.html",
+  "type": "Section",
+  "number": "3.1",
+  "title": "Area",
+  "body": " Area   test2   "
+},
+{
+  "id": "sec-volume-of-solids",
+  "level": "1",
+  "url": "sec-volume-of-solids.html",
+  "type": "Section",
+  "number": "3.2",
+  "title": "Volume of Solids",
+  "body": " Volume of Solids   test6   "
+},
+{
+  "id": "sec-mass-volume-weight-and-density",
+  "level": "1",
+  "url": "sec-mass-volume-weight-and-density.html",
+  "type": "Section",
+  "number": "3.3",
+  "title": "Mass, Volume, Weight and Density",
+  "body": " Mass, Volume, Weight and Density   test3   "
+},
+{
+  "id": "sec-time-distance-and-speed",
+  "level": "1",
+  "url": "sec-time-distance-and-speed.html",
+  "type": "Section",
+  "number": "3.4",
+  "title": "Time, Distance and Speed",
+  "body": " Time, Distance and Speed   test5   "
+},
+{
+  "id": "sec-money",
+  "level": "1",
+  "url": "sec-money.html",
+  "type": "Section",
+  "number": "3.5",
+  "title": "Money",
+  "body": " Money   test4   "
+},
+{
+  "id": "sec-approximations-and-errors",
+  "level": "1",
+  "url": "sec-approximations-and-errors.html",
+  "type": "Section",
+  "number": "3.6",
+  "title": "Approximations and Errors",
+  "body": " Approximations and Errors   test1   "
 },
 {
   "id": "ch-geometry",
