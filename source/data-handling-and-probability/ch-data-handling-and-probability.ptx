@@ -2,7 +2,13 @@
     <title> Data Handling And Probability</title>
     <introduction>
         <p>
-            lll
+            
         </p>
     </introduction>
+
+      <!-- include sections -->
+  <xi:include href="sections/sec-data_interpretation.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/probability.ptx" />
 </chapter>
