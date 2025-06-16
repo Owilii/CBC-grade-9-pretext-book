@@ -1,0 +1,16 @@
+<section xml:id="sec-probability" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Probability </title>
+    <introduction>
+        <p>
+            probability
+        </p>
+    </introduction>
+    
+    <xi:include href="subsections/probability/subsec-introduction-to-probability.ptx"/>
+    <xi:include href="subsections/probability/subsec-theoritical_probability.ptx"/>
+    <xi:include href="subsections/probability/subsec-experimental_probability.ptx"/>
+    <xi:include href="subsections/probability/subsec-mutually-exclusive_events.ptx"/>
+    <xi:include href="subsections/probability/subsec-complementary_events.ptx"/>
+    <xi:include href="subsections/probability/subsec-independent_events.ptx"/>
+    <xi:include href="subsections/probability/subsec-application-of-probability.ptx"/>
+</section>
