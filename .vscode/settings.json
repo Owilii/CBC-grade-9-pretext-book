@@ -1,0 +1,8 @@
+{
+    "xml.fileAssociations": [
+        {
+            "pattern": "**/source/**.ptx",
+            "systemId": "/home/innodems-intern2/.vscode/extensions/oscarlevin.pretext-tools-0.32.1/assets/schema/pretext-dev.rng"
+        }
+    ]
+}
