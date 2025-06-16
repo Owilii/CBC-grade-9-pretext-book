@@ -10,13 +10,49 @@ var ptx_lunr_docs = [
   "body": "  "
 },
 {
-  "id": "sec-section-name",
+  "id": "ch-whole-numbers",
   "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "1.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "url": "ch-whole-numbers.html",
+  "type": "Chapter",
+  "number": "1",
+  "title": "Whole Numbers",
+  "body": " Whole Numbers   lll   "
+},
+{
+  "id": "ch-algebra",
+  "level": "1",
+  "url": "ch-algebra.html",
+  "type": "Chapter",
+  "number": "2",
+  "title": "Algebra",
+  "body": " Algebra   lll   "
+},
+{
+  "id": "ch-measurements",
+  "level": "1",
+  "url": "ch-measurements.html",
+  "type": "Chapter",
+  "number": "3",
+  "title": "Measurements",
+  "body": " Measurements   lll   "
+},
+{
+  "id": "ch-geometry",
+  "level": "1",
+  "url": "ch-geometry.html",
+  "type": "Chapter",
+  "number": "4",
+  "title": "Geometry",
+  "body": " Geometry   lll   "
+},
+{
+  "id": "ch-data-handling-and-probability",
+  "level": "1",
+  "url": "ch-data-handling-and-probability.html",
+  "type": "Chapter",
+  "number": "5",
+  "title": "Data Handling And Probability",
+  "body": " Data Handling And Probability   lll   "
 },
 {
   "id": "backmatter-2",
